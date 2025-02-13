@@ -41,7 +41,7 @@ Check out the live version here: [ScholarCompass on Vercel](https://scholarcompa
 Contributions are welcome! Feel free to fork the repository, report issues, and submit pull requests to enhance the project.
 
 ## 📩 Contact
-For any questions or feedback, connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/marcelino-saad/) or email me at [your-email@example.com](mailto:marcelino.saad@proton.me).
+For any questions or feedback, connect with me on [LinkedIn](https://www.linkedin.com/in/marcelino-saad/) or email me at [your-email@example.com](mailto:marcelino.saad@proton.me).
 
 ---
 **If you find this project helpful, consider giving it a ⭐ on GitHub!**
