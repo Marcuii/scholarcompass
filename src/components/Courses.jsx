@@ -2,7 +2,7 @@ import React from 'react'
 
 const Courses = () => {
   return (
-    <div className="flex flex-col w-full justify-center items-center gap-5 mt-12">
+    <div id='courses' className="flex flex-col w-full justify-center items-center gap-5 mt-12">
         <p className='text-xl font-bold text-center text-primary'>
             Latest Courses
         </p>

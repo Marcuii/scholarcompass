@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stats = () => {
   return (
-    <div className='relative my-40 w-full'>
+    <div id='team' className='relative my-40 w-full'>
         <div className='absolute z-0 top-0 left-0 w-8/9 h-full rounded-r-full bg-primary'>
         </div>
         <div className='relative z-10 w-full flex flex-wrap justify-center items-center gap-20 my-20'>

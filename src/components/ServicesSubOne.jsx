@@ -2,7 +2,7 @@ import React from 'react'
 
 const ServicesSubOne = () => {
   return (
-    <div className='w-full min-h-[calc(3*100vh/4)] grid lg:grid-cols-5 md:grid-cols-3 grid-cols-1 md:gap-4 gap-30 justify-center items-center p-12 mt-20 lg:mt-10'>
+    <div id='services' className='w-full min-h-[calc(3*100vh/4)] grid lg:grid-cols-5 md:grid-cols-3 grid-cols-1 md:gap-4 gap-30 justify-center items-center p-12 mt-20 lg:mt-10'>
         <div className='relative group min-h-1/3 lg:col-start-2'>
             <div className='absolute z-10 -top-25 right-0  rounded-full bg-primary justify-items-center p-12'>
                 <img src="/images/service-01.png" alt="" className='group-hover:-translate-y-2' />

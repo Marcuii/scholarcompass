@@ -2,7 +2,7 @@ import React from 'react'
 
 const Events = () => {
   return (
-    <div className="flex flex-col w-full justify-center items-center gap-5 my-25 p-15">
+    <div id='events' className="flex flex-col w-full justify-center items-center gap-5 my-25 p-15">
         <p className='text-xl font-bold text-center text-primary'>
         Schedule
         </p>

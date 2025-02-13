@@ -3,7 +3,7 @@ import Carousel from './Carousel'
 
 const Header = () => {
     return (
-        <div className="hero min-h-screen bg-[url('/images/banner-bg.jpg')] bg-right-bottom justify-center items-center p-8">
+        <div id='header' className="hero min-h-screen bg-[url('/images/banner-bg.jpg')] bg-right-bottom justify-center items-center p-8">
             <Carousel />
         </div>
     )
